@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">LizBotz</h1>
+  <h1 align="center">Botz</h1>
   <p align="center">
     A feature-rich, self-contained Discord music bot with AI capabilities.
   </p>
