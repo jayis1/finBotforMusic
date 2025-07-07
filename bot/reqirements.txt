@@ -1,0 +1,7 @@
+discord.py==2.3.2
+yt-dlp==2025.07.02.233055.dev0
+PyNaCl==1.5.0
+python-dotenv
+google-api-python-client
+transformers
+torch
